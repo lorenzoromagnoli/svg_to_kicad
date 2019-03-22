@@ -1,5 +1,7 @@
-# svg_to_kicad
+# SVG 2 Kicad
 A simple processing sketch to convert svg files to kicad footprints.
+
+![interface](./img/interface.png)
 
 Importing complex shapes as kicad components is always painful, I made this tool to try to smoothen the process.
 
@@ -12,6 +14,7 @@ The gui allows you to:
 
 
 Still some work need to be done :) contributions are very welcomed
+
 TODO:
 - [ ] Add toggle to switch between front/back silk
 - [ ] Improve export of shapes with cutout parts
